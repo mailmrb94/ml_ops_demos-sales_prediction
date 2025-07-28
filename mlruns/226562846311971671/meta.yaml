@@ -1,0 +1,6 @@
+artifact_location: file:///Users/mahesh/MRB_Projects/mlops/mlruns/226562846311971671
+creation_time: 1753715406827
+experiment_id: '226562846311971671'
+last_update_time: 1753715406827
+lifecycle_stage: active
+name: demand_forecast

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mahesh/MRB_Projects/mlops/mlruns/226562846311971671/2a6880d1fbd843dc8afbf65a459c4ecd/artifacts
+end_time: 1753715583266
+entry_point_name: ''
+experiment_id: '226562846311971671'
+lifecycle_stage: active
+run_id: 2a6880d1fbd843dc8afbf65a459c4ecd
+run_name: clumsy-yak-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753715407172
+status: 3
+tags: []
+user_id: mahesh

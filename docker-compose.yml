@@ -1,0 +1,14 @@
+services:
+  fastapi:
+    build: .
+    container_name: fastapi_app
+    ports:
+      - "8000:8000"
+    command: uvicorn app:app --host 0.0.0.0 --port 8000
+
+  gradio:
+    build: .
+    container_name: gradio_ui
+    ports:
+      - "7860:7860"
+    command: python gradio_ui.py

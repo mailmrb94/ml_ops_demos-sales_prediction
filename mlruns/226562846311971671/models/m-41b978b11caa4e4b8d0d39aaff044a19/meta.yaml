@@ -1,0 +1,10 @@
+artifact_location: file:///Users/mahesh/MRB_Projects/mlops/mlruns/226562846311971671/models/m-41b978b11caa4e4b8d0d39aaff044a19/artifacts
+creation_timestamp: 1753715512118
+experiment_id: '226562846311971671'
+last_updated_timestamp: 1753715558938
+model_id: m-41b978b11caa4e4b8d0d39aaff044a19
+model_type: null
+name: model
+source_run_id: 2a6880d1fbd843dc8afbf65a459c4ecd
+status: 2
+status_message: null
