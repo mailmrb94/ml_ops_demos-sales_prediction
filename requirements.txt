@@ -4,3 +4,8 @@ fastapi
 uvicorn
 joblib
 mlflow
+gradio
+scikit-learn
+joblib
+numpy
+pandas
