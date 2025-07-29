@@ -9,3 +9,8 @@ scikit-learn
 joblib
 numpy
 pandas
+gradio
+scikit-learn
+joblib
+numpy
+pandas
